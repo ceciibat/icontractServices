@@ -2,7 +2,7 @@
 
 namespace Fix.Services
 {
-     class PaypalService : IOnlinePaymentService
+     class PaypalService : IOnlinePaymentService                  // fechou o contrato
     {
         public double Interest(double amount, int months)         // juro simples de 1% a cada parcela
         {
@@ -14,5 +14,6 @@ namespace Fix.Services
             return amount * 2.0 / 100.00;
         }
         
+        // CUMPRIU O CONTRATO
     }
 }
