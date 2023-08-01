@@ -1,0 +1,15 @@
+C:\Users\ana.batalha\Documents\Tempvs\Projetos\Fix\bin\Debug\net7.0\Fix.exe
+C:\Users\ana.batalha\Documents\Tempvs\Projetos\Fix\bin\Debug\net7.0\Fix.deps.json
+C:\Users\ana.batalha\Documents\Tempvs\Projetos\Fix\bin\Debug\net7.0\Fix.runtimeconfig.json
+C:\Users\ana.batalha\Documents\Tempvs\Projetos\Fix\bin\Debug\net7.0\Fix.dll
+C:\Users\ana.batalha\Documents\Tempvs\Projetos\Fix\bin\Debug\net7.0\Fix.pdb
+C:\Users\ana.batalha\Documents\Tempvs\Projetos\Fix\obj\Debug\net7.0\Fix.csproj.AssemblyReference.cache
+C:\Users\ana.batalha\Documents\Tempvs\Projetos\Fix\obj\Debug\net7.0\Fix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.batalha\Documents\Tempvs\Projetos\Fix\obj\Debug\net7.0\Fix.AssemblyInfoInputs.cache
+C:\Users\ana.batalha\Documents\Tempvs\Projetos\Fix\obj\Debug\net7.0\Fix.AssemblyInfo.cs
+C:\Users\ana.batalha\Documents\Tempvs\Projetos\Fix\obj\Debug\net7.0\Fix.csproj.CoreCompileInputs.cache
+C:\Users\ana.batalha\Documents\Tempvs\Projetos\Fix\obj\Debug\net7.0\Fix.dll
+C:\Users\ana.batalha\Documents\Tempvs\Projetos\Fix\obj\Debug\net7.0\refint\Fix.dll
+C:\Users\ana.batalha\Documents\Tempvs\Projetos\Fix\obj\Debug\net7.0\Fix.pdb
+C:\Users\ana.batalha\Documents\Tempvs\Projetos\Fix\obj\Debug\net7.0\Fix.genruntimeconfig.cache
+C:\Users\ana.batalha\Documents\Tempvs\Projetos\Fix\obj\Debug\net7.0\ref\Fix.dll
