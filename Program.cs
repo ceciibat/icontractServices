@@ -22,8 +22,8 @@ class Program
 
         Contract contrato = new Contract(number, date, totalValue);
 
-        // instancia um serviço de contrato, e dentro dele instancia o serviço utilizado que é o PayPal 
-        ContractService contractService = new ContractService(new PaypalService());
+        // instancia um serviço de contrato, e dentro dele instancia o serviço utilizado que é o PayPal = é um IOnlinePaymentService
+        ContractService contractService = new ContractService(new PaypalService());                       // aqui ele informa qual a empresa e suas regras de imposto e taxa
 
         // pega o serviço de contrato instanciado e aí sim chama o processamento de contrato processContract
         contractService.ProcessContract(contrato, months);
